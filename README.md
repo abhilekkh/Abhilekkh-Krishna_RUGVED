@@ -25,7 +25,7 @@ This repository contains my submissions for the **RUGVED Student Project Program
 
 **Abhilekkh Krishna**  
 Computer Science Engineering | MIT Manipal  
-RUGVED Project Participant
+RUGVED Project Taskphase Participant
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhilekkh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilekkh-krishna-b2252b288/)
