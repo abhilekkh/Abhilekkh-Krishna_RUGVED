@@ -4,6 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Task 1](https://img.shields.io/badge/Task%201-Complete-success?style=flat)](./Task1)
+[![Task 2](https://img.shields.io/badge/Task%202-Complete-success?style=flat)](./Task2)
 [![MIT Manipal](https://img.shields.io/badge/MIT-Manipal-orange?style=flat)](https://manipal.edu)
 
 > Computer Science Engineering Student | MIT Manipal, Karnataka
@@ -19,6 +20,7 @@ This repository contains my submissions for the **RUGVED Student Project Program
 |    Task    |           Description           | Programs |       Status       |
 |------------|---------------------------------|----------|--------------------|
 | **Task 1** | Python Programming Fundamentals |    15    |  ✅ **Complete**   |
+| **Task 2** | Python, NumPy, Pandas, Matplotlib, Seaborn | 23 |✅ **Complete** |
 
 
 ## 👨‍💻 Developer
