@@ -17,11 +17,11 @@ This repository contains my submissions for the **RUGVED Student Project Program
 
 ## 📚 Task Index
 
-|    Task    |           Description           | Programs |       Status       |
-|------------|---------------------------------|----------|--------------------|
-| **Task 1** | Python Programming Fundamentals |    15    |  ✅ **Complete**   |
-| **Task 2** | Python, NumPy, Pandas, Matplotlib, Seaborn | 23 |✅ **Complete** |
-
+| Task       | Description                                | Programs | Status          |
+| ---------- | ------------------------------------------ | -------- | --------------- |
+| **Task 1** | Python Programming Fundamentals            | 15       | ✅ **Complete** |
+| **Task 2** | Python, NumPy, Pandas, Matplotlib, Seaborn | 23       | ✅ **Complete** |
+| **Task 3** | OpenCV Python                              | 1        | ✅ **Complete** |
 
 ## 👨‍💻 Developer
 
@@ -36,7 +36,6 @@ RUGVED Project Taskphase Participant
 
 <div align="center">
 
-*Last Updated: September 2025*
+_Last Updated: September 2025_
 
 </div>
-
